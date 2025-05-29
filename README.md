@@ -61,7 +61,8 @@ Developed by:Avanthika M RegisterNumber:212224110009
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![Screenshot 2025-05-26 094052](https://github.com/user-attachments/assets/edf4b293-1c88-45a4-9855-1a51a9f2f1e5)
+![Screenshot 2025-05-29 222148](https://github.com/user-attachments/assets/c3299739-e106-4945-a37e-5088733cdd7d)
+
 
 
 **RESULTS**
